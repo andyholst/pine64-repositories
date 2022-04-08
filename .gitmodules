@@ -1,0 +1,3 @@
+[submodule "u-boot"]
+	path = u-boot
+	url = https://gitlab.com/pine64-org/u-boot.git
