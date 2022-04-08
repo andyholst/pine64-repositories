@@ -4,3 +4,6 @@
 [submodule "sunxi-mali"]
 	path = sunxi-mali
 	url = https://gitlab.com/pine64-org/sunxi-mali.git
+[submodule "platform-firmware"]
+	path = platform-firmware
+	url = https://gitlab.com/pine64-org/platform-firmware.git
