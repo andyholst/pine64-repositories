@@ -1,3 +1,6 @@
 [submodule "u-boot"]
 	path = u-boot
 	url = https://gitlab.com/pine64-org/u-boot.git
+[submodule "sunxi-mali"]
+	path = sunxi-mali
+	url = https://gitlab.com/pine64-org/sunxi-mali.git
