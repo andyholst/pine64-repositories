@@ -7,3 +7,6 @@
 [submodule "platform-firmware"]
 	path = platform-firmware
 	url = https://gitlab.com/pine64-org/platform-firmware.git
+[submodule "pinephone-keyboard"]
+	path = pinephone-keyboard
+	url = https://gitlab.com/pine64-org/pinephone-keyboard.git
