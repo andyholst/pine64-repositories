@@ -1,5 +1,6 @@
 # pine64-repositories
-A repo containing all of the pine64 repositories
+A repo containing some of the pine64 repositories from the
+https://gitlab.com/pine64-org.
 
 ## Syncronise repositories
 
