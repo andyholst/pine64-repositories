@@ -19,3 +19,6 @@
 [submodule "crust-meta"]
 	path = crust-meta
 	url = https://gitlab.com/pine64-org/crust-meta.git
+[submodule "arm-trusted-firmware"]
+	path = arm-trusted-firmware
+	url = https://gitlab.com/pine64-org/arm-trusted-firmware.git
