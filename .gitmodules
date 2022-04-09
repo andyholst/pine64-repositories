@@ -16,3 +16,6 @@
 [submodule "linux"]
 	path = linux
 	url = https://gitlab.com/pine64-org/linux.git
+[submodule "crust-meta"]
+	path = crust-meta
+	url = https://gitlab.com/pine64-org/crust-meta.git
