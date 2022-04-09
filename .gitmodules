@@ -22,3 +22,6 @@
 [submodule "arm-trusted-firmware"]
 	path = arm-trusted-firmware
 	url = https://gitlab.com/pine64-org/arm-trusted-firmware.git
+[submodule "linux-next"]
+	path = linux-next
+	url = https://gitlab.com/pgwipeout/linux-next.git
