@@ -25,3 +25,6 @@
 [submodule "linux-next"]
 	path = linux-next
 	url = https://gitlab.com/pgwipeout/linux-next.git
+[submodule "rkdeveloptool"]
+	path = rkdeveloptool
+	url = https://gitlab.com/pine64-org/quartz-bsp/rkdeveloptool.git
