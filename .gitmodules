@@ -1,0 +1,30 @@
+[submodule "u-boot"]
+	path = u-boot
+	url = https://gitlab.com/pine64-org/u-boot.git
+[submodule "sunxi-mali"]
+	path = sunxi-mali
+	url = https://gitlab.com/pine64-org/sunxi-mali.git
+[submodule "platform-firmware"]
+	path = platform-firmware
+	url = https://gitlab.com/pine64-org/platform-firmware.git
+[submodule "pinephone-keyboard"]
+	path = pinephone-keyboard
+	url = https://gitlab.com/pine64-org/pinephone-keyboard.git
+[submodule "pine64-alsa-ucm"]
+	path = pine64-alsa-ucm
+	url = https://gitlab.com/pine64-org/pine64-alsa-ucm.git
+[submodule "linux"]
+	path = linux
+	url = https://gitlab.com/pine64-org/linux.git
+[submodule "crust-meta"]
+	path = crust-meta
+	url = https://gitlab.com/pine64-org/crust-meta.git
+[submodule "arm-trusted-firmware"]
+	path = arm-trusted-firmware
+	url = https://gitlab.com/pine64-org/arm-trusted-firmware.git
+[submodule "linux-next"]
+	path = linux-next
+	url = https://gitlab.com/pgwipeout/linux-next.git
+[submodule "rkdeveloptool"]
+	path = rkdeveloptool
+	url = https://gitlab.com/pine64-org/quartz-bsp/rkdeveloptool.git
